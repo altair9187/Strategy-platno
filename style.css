@@ -6,7 +6,7 @@ body{
     font-family: 'Comfortaa', cursive;
 }
 header{
-    height: 2000px;
+    height: 2400px;
     width: 1200px;
     margin: auto;
     color: #ffffff;
@@ -19,6 +19,10 @@ header{
     padding-left: 840px;
     font-family: 'Roboto Condensed', sans-serif;
     font-size: 22px;
+}
+.logo h1{
+    display: block;
+    margin-left: 70px;
 }
 .logo1 {
     padding-top: 20px;
@@ -187,10 +191,15 @@ header{
     font-weight: bold;
     margin-left: 5px;
 }
-#tovar111{
-    margin-top: 5px;
-    margin-left: 5px;
-}
+#tovar111{margin-top: 5px; margin-left: 5px;}
+#tovar222{margin-top: 5px; margin-left: 5px;}
+#tovar333{margin-top: 5px; margin-left: 5px;}
+#tovar444{margin-top: 5px; margin-left: 5px;}
+#tovar555{margin-top: 5px; margin-left: 5px;}
+#tovar666{margin-top: 5px; margin-left: 5px;}
+#tovar777{margin-top: 5px; margin-left: 5px;}
+#tovar888{margin-top: 5px; margin-left: 5px;}
+
 .tovar_tx11{
     color: #000000;
     font-size: 14px;
@@ -228,17 +237,108 @@ header{
 }
 /*<--------Карточка товаров( общий стиль для всех)----------->*/
 
-#tovar1{
+#tovar1{ margin-left: 65px;}
+#tovar11{  width: 244px;  height: 127px; }
+#tovar11 img{ width: 100%; }
+
+#tovar22{  width: 244px;  height: 127px; }
+#tovar22 img{ width: 100%; }
+
+#tovar33{  width: 244px;  height: 127px; }
+#tovar33 img{ width: 100%; }
+
+#tovar44{  width: 244px;  height: 127px; }
+#tovar44 img{ width: 100%; }
+
+#tovar55{  width: 244px;  height: 127px; }
+#tovar55 img{ width: 100%; }
+
+#tovar66{  width: 244px;  height: 127px; }
+#tovar66 img{ width: 100%; }
+
+#tovar77{  width: 244px;  height: 127px; }
+#tovar77 img{ width: 100%; }
+
+#tovar88{  width: 244px;  height: 127px; }
+#tovar88 img{ width: 100%; }
+
+#tovar6{ margin-left: 30px;}
+#tovar7{ margin-left: 30px;}
+#tovar8{ margin-left: 30px;}
+/*<------------ стили для банера---------------------->*/
+.banner{
+    width: 600px;
+    height: 280px;
+    margin-top: 20px;
     margin-left: 65px;
+    float: left;
+}
+.banner1{
+    width: 466px;
+    height: 280px;
+    background: #28272d;
+    float: left;
+    margin-top: 20px;
+}
+.banner1 span{
+    display: block;
+    color: #ffffff;
+    font-family: 'Comfortaa', cursive;
+    font-size: 28px;
+    margin-top: 50px;
+}
+#banner1{
+    font-family: 'Comfortaa', cursive;
+    font-size: 19px;
+    margin-top: 15px;
+}
+.ban_kn{
+    width: 450px;
+    height: 34px;
+    margin-top: 15px;
+    background: #ffbb0b;
+    padding-top: 6px;
+    text-align: center;
+    border-radius: 5px;
+
+}
+.ban_kn a{
+    text-decoration: none;
+    color: #001E38;
+    font-size: 25px;
+    display: block;
+    width: 450px;
+}
+.ban_kn a:hover{
+    color: #ffffff;
 }
 
-#tovar11{
-    width: 244px;
-    height: 127px;
-}
-#tovar11 img{
-    width: 100%;
-}
+/*<------------ стили для банера---------------------->*/
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 #tovar2{
